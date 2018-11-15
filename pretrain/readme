@@ -1,0 +1,7 @@
+调制数据或协议数据识别程序
+包含三种模型
+traincnn.py 2层cnn模型
+para.py 双通道结构
+paralstm.py 双通道结合lstm模型，目前效果最好
+test.py测试程序
+data_fft.py　计算fft
