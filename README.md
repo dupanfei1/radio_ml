@@ -17,6 +17,7 @@ pyqt5
 
 
 
+
 pretrain 预训练程序，包含３种模型，包含最好的双通道加lstm模型，数据为IQ格式，.data文件格式
 
 tabwidget.py界面程序　给予pyqt
